@@ -1,4 +1,4 @@
-```markdown
+
 # BioSeqAligner
 
 ![BioSeqAligner Logo](https://example.com/bioseqaligner-logo.png)
